@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+header{
+    background-image: url(images/bokeh_car_lights_bg.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: cover;
+    color: azure;
+
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 20px;
+}
+
+nav {
+    font-size: ;
+}
